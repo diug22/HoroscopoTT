@@ -1,0 +1,88 @@
+{
+    "horoscopos":[
+        {
+            "dia_inicio" : 21,
+            "mes_inicio" : 3,
+            "dia_fin" : 19,
+            "mes_fin" : 4,
+            "nombre" : "Aries"
+        },
+        {
+            "dia_inicio" : 20,
+            "mes_inicio" : 4,
+            "dia_fin" : 20,
+            "mes_fin" : 5,
+            "nombre" : "Tauro"
+        },
+        {
+            "dia_inicio" : 21,
+            "mes_inicio" : 5,
+            "dia_fin" : 20,
+            "mes_fin" : 6,
+            "nombre" : "Geminis"
+        },
+        {
+            "dia_inicio" : 21,
+            "mes_inicio" : 6,
+            "dia_fin" : 22,
+            "mes_fin" : 7,
+            "nombre" : "Cancer"
+        },
+        {
+            "dia_inicio" : 23,
+            "mes_inicio" : 7,
+            "dia_fin" : 22,
+            "mes_fin" : 8,
+            "nombre" : "Leo"
+        },
+        {
+            "dia_inicio" : 23,
+            "mes_inicio" : 8,
+            "dia_fin" : 22,
+            "mes_fin" : 9,
+            "nombre" : "Virgo"
+        },
+        {
+            "dia_inicio" : 23,
+            "mes_inicio" : 9,
+            "dia_fin" : 22,
+            "mes_fin" : 10,
+            "nombre" : "Libra"
+        },
+        {
+            "dia_inicio" : 23,
+            "mes_inicio" : 10,
+            "dia_fin" : 21,
+            "mes_fin" : 11,
+            "nombre" : "Escorpio"
+        },
+        {
+            "dia_inicio" : 22,
+            "mes_inicio" : 11,
+            "dia_fin" : 21,
+            "mes_fin" : 12,
+            "nombre" : "Sagitario"
+        },
+        {
+            "dia_inicio" : 22,
+            "mes_inicio" : 12,
+            "dia_fin" : 19,
+            "mes_fin" : 1,
+            "nombre" : "Capricornio"
+        },
+        {
+            "dia_inicio" : 20,
+            "mes_inicio" : 1,
+            "dia_fin" : 18,
+            "mes_fin" : 2,
+            "nombre" : "Acuario"
+        },
+        {
+            "dia_inicio" : 19,
+            "mes_inicio" : 2,
+            "dia_fin" : 20,
+            "mes_fin" : 3,
+            "nombre" : "Piscis"
+        }
+    ]
+}
